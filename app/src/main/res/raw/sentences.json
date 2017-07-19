@@ -1,0 +1,6 @@
+{"sentences": [
+  {"sentence": "Tashkent is the capital of Uzbekistan.", "answer": true},
+  {"sentence": "Canberra is the capital of Australia.", "answer": true},
+  {"sentence": "London is the capital of USA", "answer": false}
+
+]}

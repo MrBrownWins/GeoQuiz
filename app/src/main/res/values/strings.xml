@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="score_text">Your score: %d</string>
+    <string name="name_hint">John Doe</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+
+    <string-array name="sentences">
+        <item>Canberra is the capital of Australia.</item>
+        <item>I like you.</item>
+    </string-array>
+
+    <array name="answers">
+
+    </array>
+</resources>
